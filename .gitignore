@@ -1,0 +1,9 @@
+# Ignore Python virtual environments
+.venv/
+.idea/
+
+# Ignore other files/folders
+*.pyc
+__pycache__/
+altered_video_output/
+subtle_modifications_output/
